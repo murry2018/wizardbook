@@ -33,6 +33,8 @@
 - [ ] 9월 3주차: 1.2절
 
 ## 스터디 참가자 일람
+- [@murry2018](https://github.com/murry2018/wizardbook)
+- [@nicksuh](https://github.com/nicksuh/SICP_exercises/)
 - [@KeisLuv5991](https://github.com/KeisLuv5991/SicpExercise)
 - [@fienestar](https://github.com/fienestar/sicp)
 - [@dsyun96](https://github.com/dsyun96/wizard-practice)
