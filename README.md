@@ -13,10 +13,14 @@
 
 - 번역서(정가 43,000원)
 
-  ![SICP](./sicp.jpg "컴퓨터 프로그램의 구조와 해석, 김재우 외 옮김")
+  ![SICP](./sicp.jpg)
+  
+  *컴퓨터 프로그램의 구조와 해석, 김재우 외 옮김*
 - 원서([html 버전](https://mitpress.mit.edu/sites/default/files/sicp/index.html))
 
-  ![SICP Banner](./sicp-banner.gif "원서의 html 버전은 공개 되어있음.")
+  ![SICP Banner](./sicp-banner.gif )
+  
+  *원서의 html 버전은 공개 되어있음.*
 
 ### 스터디 참고 자료
 - [Racket 설치 및 SICP 모듈 설정](https://kkalkkalparrot.tistory.com/32)
